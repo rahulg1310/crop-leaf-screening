@@ -1,0 +1,354 @@
+file,true_class,predicted_class,confidence,outcome,Early Blight,Healthy,Late Blight,Leaf Mold
+039b47d574bc4bb8a14259a1cd96a741.jpg,Early Blight,Early Blight,0.6535,Uncertain,0.6535,0.0000,0.3465,0.0000
+100983448.jpg,Early Blight,Early Blight,0.8556,Early Blight,0.8556,0.0000,0.1444,0.0000
+100_46341.jpg,Early Blight,Late Blight,0.7735,Late Blight,0.2262,0.0000,0.7735,0.0003
+1058_0.jpeg?itok=OQkdtxgv.jpg,Early Blight,Early Blight,0.9963,Early Blight,0.9963,0.0000,0.0036,0.0001
+1234080-Early-Blight.jpg,Early Blight,Late Blight,0.6552,Uncertain,0.3445,0.0003,0.6552,0.0000
+126689-004-D622CD2F.jpg,Early Blight,Late Blight,0.8194,Late Blight,0.1806,0.0000,0.8194,0.0000
+12July_mwnews_3-C.jpg,Early Blight,Early Blight,0.9985,Early Blight,0.9985,0.0000,0.0015,0.0000
+1576389-early%20blight%20symptoms.jpg,Early Blight,Late Blight,0.6980,Uncertain,0.3020,0.0000,0.6980,0.0000
+20020531-early%20blight%20%20starts%20on%20lower%20leaves.jpg,Early Blight,Early Blight,0.9972,Early Blight,0.9972,0.0000,0.0028,0.0000
+20080526-_DSC4211.jpg,Early Blight,Early Blight,0.8476,Early Blight,0.8476,0.0001,0.1475,0.0048
+2373320.jpg,Early Blight,Early Blight,0.7142,Early Blight,0.7142,0.0000,0.2850,0.0007
+30053_original.jpg,Early Blight,Late Blight,0.7110,Late Blight,0.2887,0.0000,0.7110,0.0003
+3606630.jpg,Early Blight,Late Blight,0.9216,Late Blight,0.0784,0.0000,0.9216,0.0000
+5086-early.jpg,Early Blight,Early Blight,0.9993,Early Blight,0.9993,0.0000,0.0007,0.0000
+8%20mistakes%204.jpg,Early Blight,Late Blight,0.9061,Late Blight,0.0925,0.0001,0.9061,0.0013
+8950022d45978228d5e44a35183efdb9--tomatoes-dyi.jpg,Early Blight,Late Blight,0.8892,Late Blight,0.1107,0.0000,0.8892,0.0000
+BCH%20medium%20thumbnail%20for%20upload%20%2836%29.jpg,Early Blight,Early Blight,0.9991,Early Blight,0.9991,0.0000,0.0003,0.0006
+Diseased-Tomato-Plant.jpg,Early Blight,Late Blight,0.9979,Late Blight,0.0020,0.0000,0.9979,0.0001
+EBTomato.jpg,Early Blight,Early Blight,0.7156,Early Blight,0.7156,0.0000,0.2841,0.0003
+Early+Blight+-+Tomatoes.jpg,Early Blight,Early Blight,0.9524,Early Blight,0.9524,0.0000,0.0467,0.0009
+Early-bligh_t.jpg,Early Blight,Early Blight,0.5656,Uncertain,0.5656,0.0001,0.4343,0.0001
+Early-blight-660x440.jpg,Early Blight,Early Blight,0.9822,Early Blight,0.9822,0.0000,0.0174,0.0004
+Early-blight.jpg,Early Blight,Early Blight,0.6501,Uncertain,0.6501,0.0001,0.3497,0.0000
+Early_Blight_of_Tomato1687.jpg,Early Blight,Late Blight,0.9833,Late Blight,0.0167,0.0000,0.9833,0.0000
+Early_blight_1.jpg?1376579808.jpg,Early Blight,Early Blight,0.9968,Early Blight,0.9968,0.0000,0.0032,0.0000
+FS547-2-big.jpg,Early Blight,Late Blight,0.9430,Late Blight,0.0524,0.0009,0.9430,0.0036
+IMG_0591.jpg,Early Blight,Early Blight,0.9582,Early Blight,0.9582,0.0000,0.0418,0.0000
+IMG_2436w.jpg,Early Blight,Early Blight,0.9192,Early Blight,0.9192,0.0000,0.0808,0.0000
+MPC105550.jpg.rendition.largest.ss.jpg,Early Blight,Late Blight,0.9084,Late Blight,0.0908,0.0000,0.9084,0.0008
+Original_e-blight.JPG.rend.hgtvcom.966.725.jpeg.jpg,Early Blight,Early Blight,0.9947,Early Blight,0.9947,0.0000,0.0050,0.0003
+Shoemaker_7068.JPG.jpg,Early Blight,Early Blight,0.8878,Early Blight,0.8878,0.0000,0.1121,0.0000
+Tomato%20early%20blight%20target%20like%20leaf%20spot.jpg,Early Blight,Early Blight,0.9377,Early Blight,0.9377,0.0000,0.0623,0.0000
+Tomato-Alternaria-Early-Blight.jpg,Early Blight,Late Blight,0.9071,Late Blight,0.0507,0.0000,0.9071,0.0422
+Tomato-Early-Blight-Leaf-Examples-Cornell-University.jpg,Early Blight,Early Blight,0.9655,Early Blight,0.9655,0.0001,0.0057,0.0287
+Tomato-Early-Blight-Leaves-Cornell-University.jpg,Early Blight,Early Blight,0.9799,Early Blight,0.9799,0.0000,0.0201,0.0000
+Tomato-Early-Blight-e1513806873934.jpg,Early Blight,Early Blight,0.9990,Early Blight,0.9990,0.0000,0.0010,0.0000
+Tomato-Early-Blight.jpg,Early Blight,Early Blight,0.6836,Uncertain,0.6836,0.0000,0.3162,0.0002
+Tomato-blight-large.jpg,Early Blight,Early Blight,0.9951,Early Blight,0.9951,0.0001,0.0048,0.0000
+Tomato-diseases-prevention-treatment.-Early-blight..jpg,Early Blight,Late Blight,0.5770,Uncertain,0.4164,0.0000,0.5770,0.0067
+Tomato-early-blight_1_1-12wmver.jpg,Early Blight,Early Blight,0.8173,Early Blight,0.8173,0.0000,0.1826,0.0001
+august-11-early-leaf-blight-single-leaf.jpg,Early Blight,Early Blight,0.9169,Early Blight,0.9169,0.0000,0.0001,0.0830
+b54d0e40027ff5e90e8ba7e1e9abf9bd--garden-guide-garden-ideas.jpg,Early Blight,Early Blight,0.5886,Uncertain,0.5886,0.0002,0.4112,0.0000
+blog_early_blight_628.jpg,Early Blight,Early Blight,0.9955,Early Blight,0.9955,0.0000,0.0042,0.0003
+bugs-and-blight-061.jpg,Early Blight,Late Blight,0.9169,Late Blight,0.0806,0.0011,0.9169,0.0013
+confused-bacterial-canker-early-blight-zoom.JPG.jpg,Early Blight,Early Blight,0.7336,Early Blight,0.7336,0.0000,0.2660,0.0004
+droppedImage_3-1.jpg,Early Blight,Late Blight,0.6560,Uncertain,0.3375,0.0002,0.6560,0.0063
+dscn3168.jpg,Early Blight,Late Blight,0.9582,Late Blight,0.0396,0.0000,0.9582,0.0021
+dscn3175.jpg,Early Blight,Early Blight,0.6285,Uncertain,0.6285,0.0001,0.2893,0.0821
+ealryblight.jpg,Early Blight,Early Blight,0.9912,Early Blight,0.9912,0.0000,0.0079,0.0008
+early%20blight%20%283%29.jpg?itok=UMYWI0xr.jpg,Early Blight,Late Blight,0.6618,Uncertain,0.3382,0.0000,0.6618,0.0001
+early%20blight%20%284%29.jpg?itok=gfK5C193.jpg,Early Blight,Late Blight,0.8354,Late Blight,0.1570,0.0001,0.8354,0.0074
+early-blight-2x.jpg,Early Blight,Late Blight,0.8959,Late Blight,0.1039,0.0000,0.8959,0.0002
+early-blight-closeup-sm.jpg,Early Blight,Early Blight,0.9991,Early Blight,0.9991,0.0000,0.0009,0.0000
+early-blight-in-high-tunnel-tomatoes-19tm74h.jpg,Early Blight,Early Blight,0.6791,Uncertain,0.6791,0.0000,0.3174,0.0036
+early-blight-in-tomatoes.jpg,Early Blight,Early Blight,0.8285,Early Blight,0.8285,0.0000,0.1715,0.0000
+early-blight-of-tomato-tomato-1.jpg,Early Blight,Early Blight,0.9987,Early Blight,0.9987,0.0000,0.0012,0.0000
+early-blight-or-target-spot-alternaria-solani-lesions-on-a-tomato-BH3TH0.jpg,Early Blight,Late Blight,0.9972,Late Blight,0.0022,0.0000,0.9972,0.0006
+early-blight-or-target-spot-alternaria-solani-lesions-on-a-tomato-BY9J8R.jpg,Early Blight,Leaf Mold,0.6741,Uncertain,0.2234,0.0000,0.1025,0.6741
+early-blight-pp-labeled_orig.jpg,Early Blight,Late Blight,0.9889,Late Blight,0.0110,0.0000,0.9889,0.0001
+early-blight1.jpg,Early Blight,Late Blight,0.8235,Late Blight,0.1758,0.0000,0.8235,0.0008
+early-tomato-blight.jpg,Early Blight,Late Blight,0.6131,Uncertain,0.3868,0.0000,0.6131,0.0001
+early_blight1-150x150.jpg,Early Blight,Early Blight,0.9766,Early Blight,0.9766,0.0000,0.0212,0.0023
+early_blight_spots_l.jpg,Early Blight,Early Blight,0.9861,Early Blight,0.9861,0.0000,0.0139,0.0000
+early_blight_tomato.jpg,Early Blight,Early Blight,0.9737,Early Blight,0.9737,0.0000,0.0263,0.0000
+earlyblight.jpg,Early Blight,Early Blight,0.6998,Uncertain,0.6998,0.0000,0.2975,0.0027
+earlyblight21_.jpg,Early Blight,Late Blight,0.6392,Uncertain,0.3596,0.0000,0.6392,0.0011
+earlyblightpotato.jpg,Early Blight,Late Blight,0.9011,Late Blight,0.0988,0.0001,0.9011,0.0001
+earlyblightresize.jpg,Early Blight,Early Blight,0.9970,Early Blight,0.9970,0.0000,0.0029,0.0001
+earlyblighttomato.jpg,Early Blight,Early Blight,0.5278,Uncertain,0.5278,0.0000,0.4722,0.0000
+ebleafb.jpg,Early Blight,Late Blight,0.9288,Late Blight,0.0698,0.0002,0.9288,0.0012
+eblight5.jpg,Early Blight,Late Blight,0.5005,Uncertain,0.4958,0.0005,0.5005,0.0032
+gn201410308259997ar-jpg.jpg,Early Blight,Early Blight,0.9638,Early Blight,0.9638,0.0000,0.0362,0.0000
+halleck_tomato_earlyblight__inline-half.jpg,Early Blight,Early Blight,0.9535,Early Blight,0.9535,0.0000,0.0447,0.0018
+p1020083cs.jpg,Early Blight,Late Blight,0.9168,Late Blight,0.0802,0.0000,0.9168,0.0030
+p1020084s.jpg,Early Blight,Late Blight,0.9989,Late Blight,0.0009,0.0000,0.9989,0.0002
+spotonleaf1.jpg,Early Blight,Early Blight,0.8071,Early Blight,0.8071,0.0000,0.1929,0.0000
+tomato-blight-phytophthora-infestans-early-stages-on-tomato-plant-b5n952.jpg,Early Blight,Early Blight,0.9521,Early Blight,0.9521,0.0000,0.0477,0.0002
+tomato-blight-soil-treatment-early-tomato-blight-in-a-microcosm-lower-leaves-curl-up-and-die-bulls-eye-lesions-tomato-fungus-soil-treatment.jpg,Early Blight,Late Blight,0.9965,Late Blight,0.0032,0.0000,0.9965,0.0003
+tomato-early-blight-1.jpg,Early Blight,Early Blight,0.9838,Early Blight,0.9838,0.0000,0.0162,0.0000
+tomato_D2b-Early-blight---RPitblado_zoom.jpg,Early Blight,Early Blight,0.7512,Early Blight,0.7512,0.0000,0.2484,0.0004
+tomato_blight_early.jpg,Early Blight,Early Blight,0.8355,Early Blight,0.8355,0.0000,0.1642,0.0003
+tomato_early-blight_01_zoom.jpg,Early Blight,Early Blight,0.8662,Early Blight,0.8662,0.0000,0.1337,0.0001
+tomato_early-blight_02_zoom.jpg,Early Blight,Late Blight,0.9451,Late Blight,0.0174,0.0001,0.9451,0.0374
+tomato_early-blight_03_zoom.jpg,Early Blight,Late Blight,0.7824,Late Blight,0.2173,0.0001,0.7824,0.0001
+tomato_q1hq-early-blight-5052_zoom.jpg,Early Blight,Early Blight,0.8295,Early Blight,0.8295,0.0003,0.1696,0.0006
+tomatoblight.jpg,Early Blight,Early Blight,0.7217,Early Blight,0.7217,0.0000,0.2780,0.0003
+tomatoearlyblight.jpg,Early Blight,Early Blight,0.7929,Early Blight,0.7929,0.0000,0.2070,0.0001
+web1_copy_early-blight-6-_0.jpg,Early Blight,Early Blight,0.9810,Early Blight,0.9810,0.0000,0.0189,0.0001
+003.JPG.jpg,Healthy,Late Blight,0.7105,Late Blight,0.2766,0.0095,0.7105,0.0034
+009-e1373768789869.jpg,Healthy,Early Blight,0.7211,Early Blight,0.7211,0.0000,0.2589,0.0200
+100_8283.jpg,Healthy,Early Blight,0.6697,Uncertain,0.6697,0.0000,0.3303,0.0000
+15481477375.jpg,Healthy,Late Blight,0.6012,Uncertain,0.3988,0.0000,0.6012,0.0000
+1684.jpg,Healthy,Late Blight,0.9687,Late Blight,0.0169,0.0004,0.9687,0.0140
+1686.jpg,Healthy,Late Blight,0.9811,Late Blight,0.0177,0.0011,0.9811,0.0001
+1688.jpg,Healthy,Late Blight,0.8207,Late Blight,0.1792,0.0001,0.8207,0.0000
+17371378-tomato-leaf.jpg,Healthy,Leaf Mold,0.5139,Uncertain,0.0633,0.0073,0.4156,0.5139
+2013-08-20-03.jpg,Healthy,Early Blight,0.6837,Uncertain,0.6837,0.0026,0.3110,0.0026
+2013-08-20-04.jpg,Healthy,Late Blight,0.7785,Late Blight,0.2165,0.0031,0.7785,0.0019
+2013-08-20-06.jpg,Healthy,Early Blight,0.9962,Early Blight,0.9962,0.0000,0.0037,0.0001
+20130609_151253_zpsc7d93f62.jpg,Healthy,Late Blight,0.9968,Late Blight,0.0032,0.0000,0.9968,0.0000
+20140818-tomato-sauce-vicky-wasik-1.jpg,Healthy,Early Blight,0.9349,Early Blight,0.9349,0.0000,0.0647,0.0004
+2015-09-17-01.jpg,Healthy,Late Blight,0.9861,Late Blight,0.0120,0.0005,0.9861,0.0014
+20160428_080421.jpg,Healthy,Late Blight,0.8782,Late Blight,0.1186,0.0026,0.8782,0.0007
+90e2c0.jpg,Healthy,Early Blight,0.9852,Early Blight,0.9852,0.0000,0.0147,0.0001
+9bfac1dea7f401e3b379dab33f535bb4.jpg,Healthy,Late Blight,0.5543,Uncertain,0.4387,0.0001,0.5543,0.0069
+Bacterial-leaf-spot-transplants1.jpg,Healthy,Early Blight,0.8322,Early Blight,0.8322,0.0003,0.1636,0.0039
+Basil%2Binfected%2Bby%2BTomato%2BSpotted%2BWilt%2BVirus.jpg,Healthy,Late Blight,0.9694,Late Blight,0.0021,0.0006,0.9694,0.0278
+CTG514794.jpg,Healthy,Early Blight,0.8546,Early Blight,0.8546,0.0002,0.1451,0.0001
+DSCN1015.JPG.jpg,Healthy,Late Blight,0.9922,Late Blight,0.0030,0.0048,0.9922,0.0000
+DSCN1016.JPG.jpg,Healthy,Late Blight,0.9990,Late Blight,0.0007,0.0003,0.9990,0.0000
+Fig-2.jpg,Healthy,Late Blight,0.9626,Late Blight,0.0074,0.0298,0.9626,0.0002
+IMG_1246.jpg,Healthy,Late Blight,0.5409,Uncertain,0.4458,0.0105,0.5409,0.0028
+IMG_2061.JPG.jpg,Healthy,Late Blight,0.9782,Late Blight,0.0201,0.0017,0.9782,0.0000
+IMG_3011.jpg,Healthy,Late Blight,0.9089,Late Blight,0.0909,0.0000,0.9089,0.0002
+IMG_3192.JPG.jpg,Healthy,Late Blight,0.9000,Late Blight,0.0989,0.0001,0.9000,0.0009
+L.peruv-assort.jpg,Healthy,Early Blight,0.5533,Uncertain,0.5533,0.0008,0.4366,0.0093
+Leaves-of-Tomato.jpg,Healthy,Late Blight,0.6027,Uncertain,0.3971,0.0001,0.6027,0.0001
+PxWBE.jpg,Healthy,Late Blight,0.5464,Uncertain,0.4535,0.0000,0.5464,0.0001
+Tomato%2Bleaf.jpg,Healthy,Late Blight,0.7479,Late Blight,0.2420,0.0004,0.7479,0.0097
+Tomato59.JPG.jpg,Healthy,Late Blight,0.8926,Late Blight,0.1065,0.0000,0.8926,0.0009
+Tomato_leaf.jpg,Healthy,Late Blight,0.9997,Late Blight,0.0002,0.0001,0.9997,0.0001
+curling-issues.jpg,Healthy,Late Blight,0.9025,Late Blight,0.0916,0.0000,0.9025,0.0058
+depositphotos_120361722-stock-photo-tomato-leaf-closeup.jpg,Healthy,Late Blight,0.9762,Late Blight,0.0237,0.0000,0.9762,0.0001
+depositphotos_143371585-stock-photo-tomato-leaf-closeup-isolated-on.jpg,Healthy,Late Blight,0.9983,Late Blight,0.0016,0.0001,0.9983,0.0000
+depositphotos_7182856-stock-photo-tomato-leaf.jpg,Healthy,Late Blight,0.9872,Late Blight,0.0117,0.0002,0.9872,0.0009
+flies.jpg,Healthy,Late Blight,0.9393,Late Blight,0.0467,0.0127,0.9393,0.0013
+fpls-08-01602-g001.jpg,Healthy,Late Blight,0.9588,Late Blight,0.0250,0.0024,0.9588,0.0138
+happier-inside.jpg,Healthy,Late Blight,0.9851,Late Blight,0.0142,0.0006,0.9851,0.0001
+img_1028.jpg,Healthy,Late Blight,0.9993,Late Blight,0.0003,0.0000,0.9993,0.0004
+img_6635.jpg,Healthy,Late Blight,0.9965,Late Blight,0.0026,0.0007,0.9965,0.0002
+late_blight_tomato_leaf4x1200.jpg,Healthy,Early Blight,0.5437,Uncertain,0.5437,0.0090,0.4408,0.0064
+main-qimg-d9c2a93f60568485c989670d9bbf703b.jpg,Healthy,Late Blight,0.9361,Late Blight,0.0625,0.0005,0.9361,0.0010
+mortgage-lifter-yellow-leaves-2.jpg,Healthy,Late Blight,0.8849,Late Blight,0.1150,0.0001,0.8849,0.0001
+p1011399.jpg,Healthy,Early Blight,0.9633,Early Blight,0.9633,0.0000,0.0366,0.0000
+russian-2-319-dt-2010-leaves-high-tunnel-9-29-2014-c.jpg,Healthy,Early Blight,0.8635,Early Blight,0.8635,0.0000,0.1363,0.0002
+single-a-green-leaf-of-tomato-picture-id496662675?k=6&m=496662675&s=612x612&w=0&h=6zKfv022H_9cLQSIR_kpcOAlTeg1eIVtLBbc80PQA7Y=.jpg,Healthy,Late Blight,0.9945,Late Blight,0.0053,0.0001,0.9945,0.0001
+stock-photo-leaves-of-tomato-plant-isolated-on-white-12085288.jpg,Healthy,Late Blight,0.9663,Late Blight,0.0336,0.0000,0.9663,0.0001
+stock-photo-tomato-leaf-isolated-on-white-background-580281301.jpg,Healthy,Late Blight,0.9648,Late Blight,0.0340,0.0006,0.9648,0.0006
+stock-photo-tomato-leaves-close-up-macro-shot-isolated-on-white-background-78796204.jpg,Healthy,Late Blight,0.8791,Late Blight,0.0960,0.0002,0.8791,0.0247
+stock-vector-set-of-vector-elements-for-your-design-red-ripe-tomatoes-with-water-drops-tomato-leaves-and-tomato-203297116.jpg,Healthy,Late Blight,0.5459,Uncertain,0.4504,0.0009,0.5459,0.0027
+tomato-leaf-20728368.jpg,Healthy,Early Blight,0.8361,Early Blight,0.8361,0.0001,0.1623,0.0015
+tomato-leaf-26180166.jpg,Healthy,Late Blight,0.9841,Late Blight,0.0152,0.0001,0.9841,0.0006
+tomato-leaf-6291945.jpg,Healthy,Healthy,0.6591,Uncertain,0.0966,0.6591,0.2393,0.0051
+tomato-leaf-6424287.jpg,Healthy,Early Blight,0.9574,Early Blight,0.9574,0.0000,0.0420,0.0005
+tomato-leaf-close-up.jpg,Healthy,Late Blight,0.9656,Late Blight,0.0298,0.0016,0.9656,0.0030
+tomato-leaf-isolated-white-34309524.jpg,Healthy,Late Blight,0.6337,Uncertain,0.3634,0.0000,0.6337,0.0029
+tomato-leaf.jpg,Healthy,Late Blight,0.9008,Late Blight,0.0538,0.0040,0.9008,0.0414
+tomato-leaves-17427786.jpg,Healthy,Early Blight,0.6729,Uncertain,0.6729,0.0023,0.3237,0.0011
+tomato-leaves-9025906.jpg,Healthy,Late Blight,0.7117,Late Blight,0.2080,0.0010,0.7117,0.0793
+tomato-leaves.jpg,Healthy,Late Blight,0.9128,Late Blight,0.0624,0.0002,0.9128,0.0247
+tomato-vine-ripe-leaves-isolated-against-white-34863029.jpg,Healthy,Late Blight,0.5226,Uncertain,0.4771,0.0000,0.5226,0.0003
+110822-206-Tomato-blight.jpg,Late Blight,Late Blight,0.8441,Late Blight,0.1559,0.0000,0.8441,0.0000
+118A_Tom_Late.jpg,Late Blight,Late Blight,0.5021,Uncertain,0.4963,0.0000,0.5021,0.0016
+18c.jpg,Late Blight,Late Blight,0.9995,Late Blight,0.0005,0.0000,0.9995,0.0000
+20150619d.jpg,Late Blight,Early Blight,0.5936,Uncertain,0.5936,0.0000,0.3947,0.0117
+2017-08-27%2B-%2BLate%2BBlight%2Bon%2BGypsy%2B1.jpg,Late Blight,Late Blight,0.8838,Late Blight,0.1162,0.0000,0.8838,0.0000
+5816170621_e1cce08736_z.jpg,Late Blight,Late Blight,0.9845,Late Blight,0.0155,0.0000,0.9845,0.0000
+600.jpg,Late Blight,Late Blight,0.9520,Late Blight,0.0480,0.0000,0.9520,0.0000
+636368370164094909-late-blight-15-.jpg,Late Blight,Late Blight,0.9856,Late Blight,0.0144,0.0000,0.9856,0.0000
+70.jpg,Late Blight,Early Blight,0.6278,Uncertain,0.6278,0.0000,0.3717,0.0005
+7262-drought.jpg,Late Blight,Late Blight,0.9785,Late Blight,0.0211,0.0001,0.9785,0.0003
+924977LateBlightLeaf.jpg,Late Blight,Late Blight,0.6681,Uncertain,0.3289,0.0005,0.6681,0.0025
+August-17-2012-Supplemental-6.jpg,Late Blight,Late Blight,0.9862,Late Blight,0.0136,0.0001,0.9862,0.0001
+E%29Tomato-late-blight-foliar.jpg,Late Blight,Late Blight,0.9054,Late Blight,0.0230,0.0511,0.9054,0.0205
+F%294.jpg,Late Blight,Late Blight,0.9507,Late Blight,0.0489,0.0002,0.9507,0.0001
+FS547-6-big.jpg,Late Blight,Late Blight,0.8575,Late Blight,0.1369,0.0001,0.8575,0.0055
+Fig.%2014_opta.jpg,Late Blight,Late Blight,0.9997,Late Blight,0.0003,0.0000,0.9997,0.0000
+IMG_1526.jpg,Late Blight,Late Blight,0.8286,Late Blight,0.1698,0.0010,0.8286,0.0006
+IMG_2254.JPG.jpg,Late Blight,Early Blight,0.9978,Early Blight,0.9978,0.0000,0.0021,0.0000
+IMG_4182.JPG.jpg,Late Blight,Late Blight,0.5656,Uncertain,0.4343,0.0000,0.5656,0.0001
+IMG_5360.jpg,Late Blight,Early Blight,0.5936,Uncertain,0.5936,0.0000,0.3947,0.0117
+IMG_5368.jpg,Late Blight,Late Blight,0.8363,Late Blight,0.1082,0.0000,0.8363,0.0555
+IMG_5808.jpg,Late Blight,Late Blight,0.9985,Late Blight,0.0013,0.0000,0.9985,0.0001
+IMG_5813.jpg,Late Blight,Late Blight,0.9705,Late Blight,0.0295,0.0000,0.9705,0.0001
+LB-2-225x300.jpg,Late Blight,Late Blight,0.9886,Late Blight,0.0113,0.0000,0.9886,0.0001
+LBleaf2INIA_0.jpg,Late Blight,Late Blight,0.9988,Late Blight,0.0012,0.0000,0.9988,0.0000
+Late%20blight%20tomato1.jpg,Late Blight,Late Blight,0.9887,Late Blight,0.0016,0.0001,0.9887,0.0096
+Late-Blight-A.jpg,Late Blight,Late Blight,0.9638,Late Blight,0.0362,0.0000,0.9638,0.0000
+Late-Blight-on-Tomato-4JDill.jpg,Late Blight,Late Blight,0.9098,Late Blight,0.0888,0.0012,0.9098,0.0002
+Late-blight-foliar-leasion-on-tomato.jpg,Late Blight,Late Blight,0.9800,Late Blight,0.0200,0.0000,0.9800,0.0000
+Late-blight-on-a-tomato-leaf.jpg,Late Blight,Late Blight,0.9993,Late Blight,0.0007,0.0000,0.9993,0.0000
+Late-blight-symptoms-on-tomato-leaves-1r3uhy2.jpg,Late Blight,Late Blight,0.8946,Late Blight,0.0682,0.0001,0.8946,0.0371
+Late-blight-tomato-leaf-VikramBisht-MBag.jpg,Late Blight,Late Blight,0.9678,Late Blight,0.0322,0.0000,0.9678,0.0001
+LateBlight-Leaflet-Large-Spot_9005-ROTATED-sbzntn.jpg,Late Blight,Late Blight,0.9997,Late Blight,0.0003,0.0000,0.9997,0.0000
+LateBlight-Tomato-JJ-2009-17nxg4q.jpg,Late Blight,Late Blight,0.8895,Late Blight,0.1105,0.0000,0.8895,0.0000
+LateBlightLeaf.jpg,Late Blight,Late Blight,0.5781,Uncertain,0.4183,0.0008,0.5781,0.0028
+LateBlt09_05.jpg,Late Blight,Late Blight,0.9708,Late Blight,0.0286,0.0004,0.9708,0.0002
+LateBlt09_06.jpg,Late Blight,Late Blight,0.9092,Late Blight,0.0898,0.0000,0.9092,0.0010
+LateBlt_FromRusinek.jpg,Late Blight,Late Blight,0.6913,Uncertain,0.3087,0.0000,0.6913,0.0000
+Late_Blight_2.jpg,Late Blight,Late Blight,0.7208,Late Blight,0.2792,0.0000,0.7208,0.0000
+Late_blight_on_tomato_leaf_%287871756748%29.jpg,Late Blight,Late Blight,0.9849,Late Blight,0.0143,0.0007,0.9849,0.0001
+Pest2369.jpg,Late Blight,Late Blight,0.9864,Late Blight,0.0135,0.0000,0.9864,0.0001
+TOMATO%20LATE%20BLIGHT%20ON%20LEAF.jpg,Late Blight,Late Blight,0.9951,Late Blight,0.0000,0.0049,0.9951,0.0000
+ToamtoLateBlight3-Version-3-oohvze.jpg,Late Blight,Late Blight,1.0000,Late Blight,0.0000,0.0000,1.0000,0.0000
+Tomato%20late%20blight%20lesion%20closeup%2013F.JPG.jpg,Late Blight,Late Blight,0.9985,Late Blight,0.0008,0.0000,0.9985,0.0008
+Tomato-Late-BlightBM.jpg,Late Blight,Late Blight,0.9909,Late Blight,0.0013,0.0009,0.9909,0.0069
+Tomato-late-blight-leaf-Margaret-McGrath-Cornell-Bugwood.jpg,Late Blight,Late Blight,1.0000,Late Blight,0.0000,0.0000,1.0000,0.0000
+TomatoBlight.JPG.jpg,Late Blight,Late Blight,0.9790,Late Blight,0.0208,0.0000,0.9790,0.0002
+TomatoLateBlight-3-Underside-2ebj05b-300x225.jpg,Late Blight,Late Blight,0.9930,Late Blight,0.0069,0.0000,0.9930,0.0001
+TomatoLateBlightTop.jpg,Late Blight,Late Blight,0.9795,Late Blight,0.0161,0.0000,0.9795,0.0045
+Tomato_Blight_Leaves.JPG.jpg,Late Blight,Late Blight,0.9248,Late Blight,0.0744,0.0000,0.9248,0.0008
+a7710b5901ba1f8e9759ef7576cd9f09.jpg,Late Blight,Late Blight,0.9973,Late Blight,0.0027,0.0000,0.9973,0.0000
+dsc_4621c.jpg,Late Blight,Late Blight,0.9082,Late Blight,0.0916,0.0000,0.9082,0.0001
+dsc_4624s.jpg,Late Blight,Late Blight,0.9664,Late Blight,0.0234,0.0000,0.9664,0.0102
+dsc_8140cs.jpg,Late Blight,Late Blight,0.9569,Late Blight,0.0256,0.0001,0.9569,0.0175
+dsc_8148cs.jpg,Late Blight,Late Blight,0.9677,Late Blight,0.0323,0.0000,0.9677,0.0000
+gardening-moisture-lateblight-tomato-leaf.jpg,Late Blight,Late Blight,0.5789,Uncertain,0.4205,0.0001,0.5789,0.0005
+image.jpg,Late Blight,Late Blight,0.9087,Late Blight,0.0912,0.0000,0.9087,0.0000
+late-blight-TomC2-10.jpg,Late Blight,Early Blight,0.6303,Uncertain,0.6303,0.0000,0.3696,0.0001
+late-blight-fungicides.jpg,Late Blight,Late Blight,0.9986,Late Blight,0.0009,0.0000,0.9986,0.0005
+late-blight-phytophthora-infestans-damage-to-tomato-leaves-and-fruit-cmnxnf.jpg,Late Blight,Late Blight,0.8710,Late Blight,0.1288,0.0000,0.8710,0.0002
+late-blight-tom-leaf.jpg,Late Blight,Early Blight,0.5574,Uncertain,0.5574,0.0003,0.3786,0.0638
+late-blight-tomato-leaf.jpg,Late Blight,Late Blight,0.9991,Late Blight,0.0009,0.0000,0.9991,0.0000
+late-blight-tomato.jpg,Late Blight,Early Blight,0.9287,Early Blight,0.9287,0.0000,0.0687,0.0026
+late_blight1.jpg,Late Blight,Late Blight,0.9998,Late Blight,0.0002,0.0000,0.9998,0.0000
+late_blight_2013_longisland1x1200.jpg,Late Blight,Early Blight,0.6451,Uncertain,0.6451,0.0000,0.3549,0.0001
+late_blight_2013_longisland2x1200.jpg,Late Blight,Early Blight,0.5748,Uncertain,0.5748,0.0000,0.4252,0.0000
+late_blight_drought_leaves1x1200.jpg,Late Blight,Early Blight,0.5773,Uncertain,0.5773,0.0000,0.2995,0.1232
+late_blight_drought_leavescuux1200.jpg,Late Blight,Late Blight,0.8269,Late Blight,0.1722,0.0000,0.8269,0.0009
+late_blight_tomato_leaf.jpg,Late Blight,Late Blight,0.9886,Late Blight,0.0098,0.0003,0.9886,0.0013
+late_blight_tomato_leaf1x1200.jpg,Late Blight,Late Blight,0.9847,Late Blight,0.0148,0.0000,0.9847,0.0004
+late_blight_tomato_leaf5x12001-650x305.jpg,Late Blight,Late Blight,0.9995,Late Blight,0.0001,0.0000,0.9995,0.0004
+late_blight_tomato_leaf5x12001.jpg,Late Blight,Late Blight,1.0000,Late Blight,0.0000,0.0000,1.0000,0.0000
+late_blight_tomato_leaf_.jpg,Late Blight,Late Blight,0.9054,Late Blight,0.0945,0.0000,0.9054,0.0001
+late_blight_tomato_leaf_spore1x1200.jpg,Late Blight,Late Blight,0.9996,Late Blight,0.0002,0.0000,0.9996,0.0002
+late_blight_tomato_leaf_sporex1200.jpg,Late Blight,Late Blight,0.9439,Late Blight,0.0450,0.0103,0.9439,0.0008
+late_blight_tomato_leavesx500.jpg,Late Blight,Leaf Mold,0.9479,Leaf Mold,0.0480,0.0012,0.0029,0.9479
+late_blight_tomato_transplant2x1200.jpg,Late Blight,Late Blight,0.7624,Late Blight,0.2375,0.0001,0.7624,0.0000
+late_blight_tomato_unusual-symptomsx1200.jpg,Late Blight,Late Blight,0.9549,Late Blight,0.0439,0.0000,0.9549,0.0011
+lateblight2.jpg,Late Blight,Late Blight,0.7439,Late Blight,0.0217,0.0170,0.7439,0.2173
+lateblightTom_lesion.jpg,Late Blight,Late Blight,0.9884,Late Blight,0.0116,0.0000,0.9884,0.0000
+lateblightTom_lesion3.jpg,Late Blight,Late Blight,0.9393,Late Blight,0.0605,0.0000,0.9393,0.0001
+lb2.jpg,Late Blight,Late Blight,0.9681,Late Blight,0.0228,0.0001,0.9681,0.0090
+lb_leaf_lesions2x1200.jpg,Late Blight,Late Blight,0.8748,Late Blight,0.1247,0.0001,0.8748,0.0004
+lb_leaf_lesions3x1200.jpg,Late Blight,Late Blight,0.8400,Late Blight,0.1600,0.0000,0.8400,0.0000
+lb_leaf_lesions4x1200.jpg,Late Blight,Late Blight,0.9801,Late Blight,0.0085,0.0000,0.9801,0.0114
+lbleaf.jpg,Late Blight,Late Blight,0.9486,Late Blight,0.0507,0.0000,0.9486,0.0008
+p1020076cs.jpg,Late Blight,Late Blight,0.8136,Late Blight,0.0789,0.0004,0.8136,0.1071
+photo-2.jpg,Late Blight,Late Blight,0.8193,Late Blight,0.1807,0.0000,0.8193,0.0000
+photo-9.jpg,Late Blight,Late Blight,0.9921,Late Blight,0.0078,0.0000,0.9921,0.0000
+stock-photo-tomato-plants-infected-by-the-late-blight-plant-pathogen-phytophthora-infestans-macro-539209615.jpg,Late Blight,Late Blight,0.6191,Uncertain,0.3805,0.0000,0.6191,0.0003
+symptoms_of_late_blight.jpg2__0.jpg,Late Blight,Late Blight,0.9470,Late Blight,0.0527,0.0000,0.9470,0.0003
+symptoms_of_late_blight_0.jpg,Late Blight,Late Blight,0.7942,Late Blight,0.2058,0.0000,0.7942,0.0000
+tomato+blight.jpg,Late Blight,Early Blight,0.7448,Early Blight,0.7448,0.0000,0.2547,0.0005
+tomato-blight-phytophthora-infestans-close-up-of-infected-leaf-b5n95x.jpg,Late Blight,Late Blight,0.9867,Late Blight,0.0131,0.0000,0.9867,0.0002
+tomato-late-blight-conn-2015-137c.jpg,Late Blight,Late Blight,0.9923,Late Blight,0.0077,0.0000,0.9923,0.0000
+tomato-late-blight-conn-2015-139rcs.jpg,Late Blight,Late Blight,0.6956,Uncertain,0.3043,0.0000,0.6956,0.0001
+tomato-late-blight-foliar-lesions_Scot-Nelson_CC-BY-SA-2.0.jpg,Late Blight,Late Blight,0.9927,Late Blight,0.0067,0.0000,0.9927,0.0006
+tomato-late-blight-leaf-61-3x32.jpg,Late Blight,Late Blight,0.9722,Late Blight,0.0278,0.0000,0.9722,0.0000
+tomato-late-blight-phytophthora-infestans-lesions-and-damage-on-tomato-bh3w9j.jpg,Late Blight,Late Blight,0.9370,Late Blight,0.0628,0.0000,0.9370,0.0001
+tomato-late-blight-phytophthora-infestans-lesions-on-greenhouse-grown-ATA11J.jpg,Late Blight,Late Blight,0.6865,Uncertain,0.3123,0.0000,0.6865,0.0012
+tomato-late-blight-phytophthora-infestans-mycelium-and-lesions-on-a15yr2.jpg,Late Blight,Late Blight,0.9921,Late Blight,0.0079,0.0000,0.9921,0.0000
+tomato-late-blight-phytophthora-infestans-necrosis-sporulation-on-a-tomato-leaf-underside-X5YDDP.jpg,Late Blight,Late Blight,0.9995,Late Blight,0.0005,0.0000,0.9995,0.0000
+tomato-late-blight-phytophthora-infestans-necrosis-sporulation-on-a-tomato-leaf-underside-XA233C.jpg,Late Blight,Late Blight,0.9996,Late Blight,0.0002,0.0000,0.9996,0.0002
+tomato-late-blight-phytophthora-infestans-on-tomato-leaves-a15ym0.jpg,Late Blight,Late Blight,0.7511,Late Blight,0.2489,0.0000,0.7511,0.0000
+tomato-late-blight-sporulation-on-a-tomato-leaflet-picture-id81781370?s=612x612.jpg,Late Blight,Late Blight,0.9996,Late Blight,0.0002,0.0000,0.9996,0.0002
+tomato.early.blightH.jpg,Late Blight,Late Blight,0.8956,Late Blight,0.1037,0.0000,0.8956,0.0007
+tomato_D33a-Late-blight-015-OMAFHRT_zoom.jpg,Late Blight,Late Blight,0.9914,Late Blight,0.0082,0.0000,0.9914,0.0004
+tomato_late-blight_01_zoom.jpg,Late Blight,Late Blight,0.9131,Late Blight,0.0839,0.0000,0.9131,0.0030
+tomato_late-blight_03_zoom.jpg,Late Blight,Late Blight,0.7638,Late Blight,0.0107,0.2244,0.7638,0.0011
+tomato_late-blight_04_zoom.jpg,Late Blight,Late Blight,0.9987,Late Blight,0.0010,0.0000,0.9987,0.0003
+tomato_late-blight_05_zoom.jpg,Late Blight,Early Blight,0.5252,Uncertain,0.5252,0.0001,0.4747,0.0000
+100_4542.jpg,Leaf Mold,Late Blight,0.7947,Late Blight,0.1754,0.0000,0.7947,0.0299
+119B_Tom_Mold.jpg,Leaf Mold,Late Blight,0.8445,Late Blight,0.0305,0.0230,0.8445,0.1021
+2195890.jpg,Leaf Mold,Late Blight,0.6364,Uncertain,0.3626,0.0009,0.6364,0.0001
+23600077_1572609202782510_2145699867_o.jpg,Leaf Mold,Early Blight,0.5406,Uncertain,0.5406,0.0000,0.4593,0.0001
+23601051_1572608349449262_2029169498_o.jpg,Leaf Mold,Late Blight,0.9515,Late Blight,0.0308,0.0165,0.9515,0.0013
+23633262_1572609386115825_1396180255_o.jpg,Leaf Mold,Early Blight,0.9187,Early Blight,0.9187,0.0000,0.0811,0.0001
+4118c92ffde66d327ee14e4023320bf7.jpg,Leaf Mold,Leaf Mold,0.3482,Uncertain,0.3062,0.0004,0.3453,0.3482
+49%20Leafmold%20Bottom.jpg,Leaf Mold,Early Blight,0.6838,Uncertain,0.6838,0.0027,0.2978,0.0157
+50%20Leafmold%20Top.jpg,Leaf Mold,Early Blight,0.9458,Early Blight,0.9458,0.0002,0.0295,0.0245
+5830204360_757cd7fdfc_z.jpg,Leaf Mold,Late Blight,0.9879,Late Blight,0.0012,0.0000,0.9879,0.0108
+603-116-0.jpg,Leaf Mold,Late Blight,0.6904,Uncertain,0.3089,0.0000,0.6904,0.0008
+6032331.JPG.jpg,Leaf Mold,Early Blight,0.9567,Early Blight,0.9567,0.0000,0.0176,0.0257
+607-155-0.jpg,Leaf Mold,Leaf Mold,0.6398,Uncertain,0.0930,0.0004,0.2668,0.6398
+607-155-1.jpg,Leaf Mold,Early Blight,0.8749,Early Blight,0.8749,0.0000,0.0928,0.0323
+8915974546_00664cefe3_z.jpg,Leaf Mold,Late Blight,0.4889,Uncertain,0.4140,0.0078,0.4889,0.0893
+ArticleImage.aspx?imgid=4987.jpg,Leaf Mold,Late Blight,0.9890,Late Blight,0.0108,0.0001,0.9890,0.0001
+B%29-Leafunsidecladosp-envez.jpg,Leaf Mold,Late Blight,0.9187,Late Blight,0.0811,0.0002,0.9187,0.0000
+BIGSD.jpg,Leaf Mold,Early Blight,0.7562,Early Blight,0.7562,0.0000,0.2437,0.0001
+BlackLeafMold2.jpg,Leaf Mold,Late Blight,0.9599,Late Blight,0.0387,0.0001,0.9599,0.0013
+Botrytis-Tomato-Seedlings-2-copy-50QUALITY-17wck0d.jpg,Leaf Mold,Late Blight,0.8249,Late Blight,0.1678,0.0015,0.8249,0.0059
+DSCN2697.jpg,Leaf Mold,Late Blight,0.9018,Late Blight,0.0975,0.0000,0.9018,0.0006
+Fig.%2015_opta.jpg,Leaf Mold,Early Blight,0.9154,Early Blight,0.9154,0.0002,0.0843,0.0001
+Fig.%2016_opt.jpg,Leaf Mold,Late Blight,0.8194,Late Blight,0.1804,0.0000,0.8194,0.0002
+GIVXB.jpg,Leaf Mold,Late Blight,0.9022,Late Blight,0.0973,0.0000,0.9022,0.0005
+HighTunnel_TLM5.jpg,Leaf Mold,Late Blight,0.9611,Late Blight,0.0389,0.0000,0.9611,0.0000
+HighTunnel_TLM6.jpg,Leaf Mold,Late Blight,0.9699,Late Blight,0.0118,0.0006,0.9699,0.0177
+IMG_1261.jpg,Leaf Mold,Late Blight,0.9653,Late Blight,0.0195,0.0000,0.9653,0.0152
+IMG_7442%20resized_0.preview.jpg,Leaf Mold,Leaf Mold,0.9515,Leaf Mold,0.0372,0.0000,0.0112,0.9515
+Leaf+Mold+lower+leaf+surface+spores+%28conidia%29.jpg,Leaf Mold,Late Blight,0.7898,Late Blight,0.2102,0.0000,0.7898,0.0000
+Leaf+Mold+upper+leaf+surface.jpg,Leaf Mold,Late Blight,0.5992,Uncertain,0.3622,0.0379,0.5992,0.0008
+Leaf+mold+tomato+%25282%2529.JPG.jpg,Leaf Mold,Early Blight,0.9718,Early Blight,0.9718,0.0002,0.0280,0.0000
+Leaf+mold+tomato+%25283%2529.JPG.jpg,Leaf Mold,Early Blight,0.9798,Early Blight,0.9798,0.0000,0.0202,0.0000
+Leaf-mold-caused-by-the-fungal-pathogen-Passalore-fulva-in-tomatoes.jpg,Leaf Mold,Late Blight,0.5092,Uncertain,0.0509,0.0001,0.5092,0.4398
+Leaf-mold-web.jpg,Leaf Mold,Late Blight,0.5951,Uncertain,0.4013,0.0000,0.5951,0.0035
+Leaf-mold3.jpg,Leaf Mold,Late Blight,0.8996,Late Blight,0.0996,0.0005,0.8996,0.0003
+OLU13.jpg,Leaf Mold,Late Blight,0.9463,Late Blight,0.0533,0.0003,0.9463,0.0001
+Ormvn.jpg,Leaf Mold,Late Blight,0.9896,Late Blight,0.0102,0.0000,0.9896,0.0001
+P1020365.jpg,Leaf Mold,Early Blight,0.8094,Early Blight,0.8094,0.0049,0.1856,0.0001
+Problem-2a.jpg,Leaf Mold,Early Blight,0.9950,Early Blight,0.9950,0.0000,0.0032,0.0018
+Tomato%20greenhouse%20leaf%20edema%20and%20distortion2F.JPG.jpg,Leaf Mold,Late Blight,0.5097,Uncertain,0.4076,0.0000,0.5097,0.0827
+Tomato+leaf+mold.jpg,Leaf Mold,Late Blight,0.9996,Late Blight,0.0001,0.0000,0.9996,0.0003
+TomatoLeafMold1-50QUALITY-16lgkq6.jpg,Leaf Mold,Late Blight,0.8102,Late Blight,0.1738,0.0118,0.8102,0.0042
+TomatoLeafMold2-50QUALITY-1b89zfs.jpg,Leaf Mold,Late Blight,0.9165,Late Blight,0.0167,0.0096,0.9165,0.0572
+black%20leaf%20mold%20%283%29.JPG?itok=u5TDHCSM.jpg,Leaf Mold,Late Blight,0.9505,Late Blight,0.0494,0.0000,0.9505,0.0000
+black%20leaf%20mold%20%284%29.JPG?itok=DIIUw9JU.jpg,Leaf Mold,Late Blight,0.8795,Late Blight,0.1196,0.0002,0.8795,0.0007
+black_leaf_mold_in_zina_tina.jpg,Leaf Mold,Early Blight,0.5794,Uncertain,0.5794,0.0000,0.4205,0.0001
+d-to-tylv-fo005-14496A31BE70553130A.jpg,Leaf Mold,Late Blight,0.5036,Uncertain,0.4957,0.0002,0.5036,0.0005
+dscf2712.jpg,Leaf Mold,Early Blight,0.9722,Early Blight,0.9722,0.0000,0.0270,0.0007
+dscn6689.jpg,Leaf Mold,Early Blight,0.6932,Uncertain,0.6932,0.0000,0.3068,0.0000
+dscn6690.jpg,Leaf Mold,Late Blight,0.9265,Late Blight,0.0729,0.0000,0.9265,0.0006
+fungus-univ-of-minnesoeta.jpg,Leaf Mold,Late Blight,0.9697,Late Blight,0.0191,0.0000,0.9697,0.0112
+gray-leaf-spot-300x225.jpg,Leaf Mold,Early Blight,0.5226,Uncertain,0.5226,0.0000,0.4766,0.0008
+gray-mold-on-tomato-leaf.jpg,Leaf Mold,Late Blight,0.9985,Late Blight,0.0015,0.0000,0.9985,0.0000
+grey-mould-botrytis-cinerea-on-bottom-of-a-tomato-leaf-late-in-the-AFRDAN.jpg,Leaf Mold,Late Blight,0.9970,Late Blight,0.0030,0.0000,0.9970,0.0001
+image233.jpg,Leaf Mold,Late Blight,0.7616,Late Blight,0.0292,0.0000,0.7616,0.2092
+latest?cb=20100723105221.jpg,Leaf Mold,Late Blight,0.9255,Late Blight,0.0740,0.0001,0.9255,0.0004
+leaf%2Binf%2B800%2B1.jpg,Leaf Mold,Late Blight,0.9997,Late Blight,0.0001,0.0000,0.9997,0.0002
+leaf_mold1.jpg,Leaf Mold,Early Blight,0.6109,Uncertain,0.6109,0.0002,0.3868,0.0022
+leaf_mold2.jpg,Leaf Mold,Late Blight,0.9680,Late Blight,0.0002,0.0019,0.9680,0.0300
+leaf_mold_nightshade1x500.jpg,Leaf Mold,Leaf Mold,0.8825,Leaf Mold,0.0565,0.0000,0.0610,0.8825
+leaf_mold_nightshade2x500.jpg,Leaf Mold,Late Blight,0.8168,Late Blight,0.1027,0.0222,0.8168,0.0583
+leaf_mold_tomato1x1200.jpg,Leaf Mold,Late Blight,0.7996,Late Blight,0.1845,0.0000,0.7996,0.0159
+leaf_mold_tomato2x1200.jpg,Leaf Mold,Late Blight,0.5021,Uncertain,0.0135,0.0000,0.5021,0.4844
+leaf_mold_tomato3x1200.jpg,Leaf Mold,Late Blight,0.6236,Uncertain,0.3575,0.0000,0.6236,0.0189
+leaf_mold_tomato4x1200.jpg,Leaf Mold,Late Blight,0.8536,Late Blight,0.0259,0.0003,0.8536,0.1202
+leaf_mold_tomato5x1200.jpg,Leaf Mold,Late Blight,0.9054,Late Blight,0.0946,0.0000,0.9054,0.0001
+leaf_mold_tomato6x1200.jpg,Leaf Mold,Late Blight,0.9910,Late Blight,0.0027,0.0000,0.9910,0.0062
+leaf_mold_tomato7x1200.jpg,Leaf Mold,Late Blight,0.5239,Uncertain,0.4749,0.0000,0.5239,0.0011
+leafmold.jpg,Leaf Mold,Late Blight,0.8002,Late Blight,0.1235,0.0002,0.8002,0.0761
+leafmoldtomato1.jpg,Leaf Mold,Late Blight,0.8645,Late Blight,0.0245,0.0005,0.8645,0.1105
+leafmoldtomato2.jpg,Leaf Mold,Late Blight,0.9705,Late Blight,0.0294,0.0000,0.9705,0.0000
+pm3.jpg,Leaf Mold,Late Blight,0.9886,Late Blight,0.0059,0.0051,0.9886,0.0003
+tdisease12.jpg,Leaf Mold,Late Blight,0.8824,Late Blight,0.1128,0.0001,0.8824,0.0046
+tdisease6.jpg,Leaf Mold,Late Blight,0.6402,Uncertain,0.1951,0.0003,0.6402,0.1644
+tdisease7.jpg,Leaf Mold,Late Blight,0.9929,Late Blight,0.0070,0.0000,0.9929,0.0001
+tomato-gray-leaf-spot.jpg,Leaf Mold,Early Blight,0.9332,Early Blight,0.9332,0.0000,0.0668,0.0000
+tomato-leaf-2.jpg,Leaf Mold,Late Blight,0.8083,Late Blight,0.1851,0.0059,0.8083,0.0006
+tomato-leaf-mold-2.jpg,Leaf Mold,Late Blight,0.9339,Late Blight,0.0661,0.0000,0.9339,0.0000
+tomato-leaf-mold-infection-on-a-leaf-top-and-underside-picture-id81781575?s=612x612.jpg,Leaf Mold,Late Blight,0.9754,Late Blight,0.0245,0.0000,0.9754,0.0002
+tomato-leaf-mold.jpg,Leaf Mold,Late Blight,0.5439,Uncertain,0.4478,0.0003,0.5439,0.0080
+tomato.jpg,Leaf Mold,Early Blight,0.9020,Early Blight,0.9020,0.0009,0.0966,0.0005
+tomato_Leaf-roll-physiological-7059-SLoewen_thm.jpg,Leaf Mold,Early Blight,0.9014,Early Blight,0.9014,0.0002,0.0963,0.0022
+tomato_fulvia.jpg,Leaf Mold,Late Blight,0.9929,Late Blight,0.0068,0.0001,0.9929,0.0002
+tomato_fulvia2.jpg,Leaf Mold,Early Blight,0.6675,Uncertain,0.6675,0.0005,0.3320,0.0001
+tomato_leaf-mold_01_zoom.jpg,Leaf Mold,Late Blight,0.8932,Late Blight,0.1067,0.0000,0.8932,0.0000
+tomato_leaf-mold_02_zoom.jpg,Leaf Mold,Late Blight,0.8532,Late Blight,0.0160,0.0002,0.8532,0.1307
+tomato_leaf-mold_03_zoom.jpg,Leaf Mold,Late Blight,0.7533,Late Blight,0.2449,0.0000,0.7533,0.0018
+tomato_leaf-mold_04_zoom.jpg,Leaf Mold,Late Blight,0.8170,Late Blight,0.1777,0.0052,0.8170,0.0001
+tomato_plants_1_original.JPG?1407178095.jpg,Leaf Mold,Early Blight,0.9798,Early Blight,0.9798,0.0001,0.0196,0.0005
+top-leaf-mold-Fulva-fulvea-WN.jpg,Leaf Mold,Early Blight,0.8640,Early Blight,0.8640,0.0006,0.0847,0.0507
+tylc.jpg,Leaf Mold,Early Blight,0.8966,Early Blight,0.8966,0.0001,0.1033,0.0001

@@ -1,0 +1,23 @@
+Field test (PlantDoc real photos)
+=================================
+
+              precision    recall  f1-score   support
+
+Early Blight      0.514     0.614     0.560        88
+     Healthy      1.000     0.016     0.031        63
+ Late Blight      0.408     0.883     0.558       111
+   Leaf Mold      0.571     0.044     0.082        91
+
+    accuracy                          0.445       353
+   macro avg      0.624     0.389     0.308       353
+weighted avg      0.582     0.445     0.342       353
+
+Screening at threshold 70%:
+{
+  "images": 353,
+  "accuracy_top1": 0.4447592067988669,
+  "flagged_uncertain": 0.20679886685552407,
+  "accuracy_on_confident": 0.4857142857142857,
+  "wrong_but_confident": 144,
+  "wrong_and_flagged": 52
+}

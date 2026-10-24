@@ -1,0 +1,388 @@
+{
+  "classes": [
+    "Early Blight",
+    "Healthy",
+    "Late Blight",
+    "Leaf Mold"
+  ],
+  "threshold": 0.7,
+  "lab_test": {
+    "summary": {
+      "images": 572,
+      "accuracy_top1": 0.9230769230769231,
+      "flagged_uncertain": 0.08741258741258741,
+      "accuracy_on_confident": 0.9444444444444444,
+      "wrong_but_confident": 29,
+      "wrong_and_flagged": 15
+    },
+    "per_class": {
+      "Early Blight": {
+        "precision": 0.959349593495935,
+        "recall": 0.8251748251748252,
+        "f1-score": 0.8872180451127819,
+        "support": 143.0
+      },
+      "Healthy": {
+        "precision": 0.9281045751633987,
+        "recall": 0.993006993006993,
+        "f1-score": 0.9594594594594594,
+        "support": 143.0
+      },
+      "Late Blight": {
+        "precision": 0.8873239436619719,
+        "recall": 0.8811188811188811,
+        "f1-score": 0.8842105263157894,
+        "support": 143.0
+      },
+      "Leaf Mold": {
+        "precision": 0.922077922077922,
+        "recall": 0.993006993006993,
+        "f1-score": 0.9562289562289562,
+        "support": 143.0
+      },
+      "accuracy": 0.9230769230769231,
+      "macro avg": {
+        "precision": 0.924214008599807,
+        "recall": 0.9230769230769231,
+        "f1-score": 0.9217792467792468,
+        "support": 572.0
+      },
+      "weighted avg": {
+        "precision": 0.924214008599807,
+        "recall": 0.9230769230769231,
+        "f1-score": 0.9217792467792468,
+        "support": 572.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        118,
+        5,
+        16,
+        4
+      ],
+      [
+        0,
+        142,
+        0,
+        1
+      ],
+      [
+        4,
+        6,
+        126,
+        7
+      ],
+      [
+        1,
+        0,
+        0,
+        142
+      ]
+    ],
+    "screening_matrix": [
+      [
+        97,
+        5,
+        11,
+        2,
+        28
+      ],
+      [
+        0,
+        141,
+        0,
+        0,
+        2
+      ],
+      [
+        3,
+        2,
+        118,
+        6,
+        14
+      ],
+      [
+        0,
+        0,
+        0,
+        137,
+        6
+      ]
+    ]
+  },
+  "field_test": {
+    "summary": {
+      "images": 353,
+      "accuracy_top1": 0.4447592067988669,
+      "flagged_uncertain": 0.20679886685552407,
+      "accuracy_on_confident": 0.4857142857142857,
+      "wrong_but_confident": 144,
+      "wrong_and_flagged": 52
+    },
+    "per_class": {
+      "Early Blight": {
+        "precision": 0.5142857142857142,
+        "recall": 0.6136363636363636,
+        "f1-score": 0.5595854922279793,
+        "support": 88.0
+      },
+      "Healthy": {
+        "precision": 1.0,
+        "recall": 0.015873015873015872,
+        "f1-score": 0.03125,
+        "support": 63.0
+      },
+      "Late Blight": {
+        "precision": 0.4083333333333333,
+        "recall": 0.8828828828828829,
+        "f1-score": 0.5584045584045584,
+        "support": 111.0
+      },
+      "Leaf Mold": {
+        "precision": 0.5714285714285714,
+        "recall": 0.04395604395604396,
+        "f1-score": 0.08163265306122448,
+        "support": 91.0
+      },
+      "accuracy": 0.4447592067988669,
+      "macro avg": {
+        "precision": 0.6235119047619047,
+        "recall": 0.3890870765870766,
+        "f1-score": 0.30771817592344053,
+        "support": 353.0
+      },
+      "weighted avg": {
+        "precision": 0.5823856738162687,
+        "recall": 0.4447592067988669,
+        "f1-score": 0.34171034200436146,
+        "support": 353.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        54,
+        0,
+        33,
+        1
+      ],
+      [
+        15,
+        1,
+        46,
+        1
+      ],
+      [
+        12,
+        0,
+        98,
+        1
+      ],
+      [
+        24,
+        0,
+        63,
+        4
+      ]
+    ],
+    "screening_matrix": [
+      [
+        45,
+        0,
+        25,
+        0,
+        18
+      ],
+      [
+        10,
+        0,
+        38,
+        0,
+        15
+      ],
+      [
+        3,
+        0,
+        89,
+        1,
+        18
+      ],
+      [
+        17,
+        0,
+        50,
+        2,
+        22
+      ]
+    ]
+  },
+  "out_of_scope": {
+    "Tomato Septoria leaf spot": {
+      "images": 150,
+      "flagged_uncertain": 0.2733333333333333,
+      "top1_guesses": {
+        "Early Blight": 103,
+        "Healthy": 1,
+        "Late Blight": 43,
+        "Leaf Mold": 3
+      }
+    },
+    "Tomato leaf bacterial spot": {
+      "images": 110,
+      "flagged_uncertain": 0.22727272727272727,
+      "top1_guesses": {
+        "Early Blight": 70,
+        "Healthy": 0,
+        "Late Blight": 39,
+        "Leaf Mold": 1
+      }
+    },
+    "Tomato leaf mosaic virus": {
+      "images": 54,
+      "flagged_uncertain": 0.25925925925925924,
+      "top1_guesses": {
+        "Early Blight": 14,
+        "Healthy": 0,
+        "Late Blight": 39,
+        "Leaf Mold": 1
+      }
+    },
+    "Tomato leaf yellow virus": {
+      "images": 75,
+      "flagged_uncertain": 0.16,
+      "top1_guesses": {
+        "Early Blight": 20,
+        "Healthy": 0,
+        "Late Blight": 55,
+        "Leaf Mold": 0
+      }
+    },
+    "_overall_flagged_uncertain": 0.2365038560411311
+  },
+  "threshold_sweep": {
+    "Lab": [
+      {
+        "threshold": 0.4,
+        "accuracy_on_confident": 0.9229422066549913,
+        "share_confident": 0.9982517482517482
+      },
+      {
+        "threshold": 0.45,
+        "accuracy_on_confident": 0.9259259259259259,
+        "share_confident": 0.9912587412587412
+      },
+      {
+        "threshold": 0.5,
+        "accuracy_on_confident": 0.9289520426287744,
+        "share_confident": 0.9842657342657343
+      },
+      {
+        "threshold": 0.55,
+        "accuracy_on_confident": 0.9379562043795621,
+        "share_confident": 0.958041958041958
+      },
+      {
+        "threshold": 0.6,
+        "accuracy_on_confident": 0.9425925925925925,
+        "share_confident": 0.9440559440559441
+      },
+      {
+        "threshold": 0.65,
+        "accuracy_on_confident": 0.9438202247191011,
+        "share_confident": 0.9335664335664335
+      },
+      {
+        "threshold": 0.7,
+        "accuracy_on_confident": 0.9444444444444444,
+        "share_confident": 0.9125874125874126
+      },
+      {
+        "threshold": 0.75,
+        "accuracy_on_confident": 0.954,
+        "share_confident": 0.8741258741258742
+      },
+      {
+        "threshold": 0.8,
+        "accuracy_on_confident": 0.9587628865979382,
+        "share_confident": 0.8479020979020979
+      },
+      {
+        "threshold": 0.85,
+        "accuracy_on_confident": 0.9632034632034632,
+        "share_confident": 0.8076923076923077
+      },
+      {
+        "threshold": 0.9,
+        "accuracy_on_confident": 0.9767441860465116,
+        "share_confident": 0.7517482517482518
+      },
+      {
+        "threshold": 0.95,
+        "accuracy_on_confident": 0.9899244332493703,
+        "share_confident": 0.6940559440559441
+      }
+    ],
+    "Field": [
+      {
+        "threshold": 0.4,
+        "accuracy_on_confident": 0.4431818181818182,
+        "share_confident": 0.9971671388101983
+      },
+      {
+        "threshold": 0.45,
+        "accuracy_on_confident": 0.4431818181818182,
+        "share_confident": 0.9971671388101983
+      },
+      {
+        "threshold": 0.5,
+        "accuracy_on_confident": 0.4444444444444444,
+        "share_confident": 0.9943342776203966
+      },
+      {
+        "threshold": 0.55,
+        "accuracy_on_confident": 0.4624624624624625,
+        "share_confident": 0.943342776203966
+      },
+      {
+        "threshold": 0.6,
+        "accuracy_on_confident": 0.47003154574132494,
+        "share_confident": 0.8980169971671388
+      },
+      {
+        "threshold": 0.65,
+        "accuracy_on_confident": 0.48344370860927155,
+        "share_confident": 0.8555240793201133
+      },
+      {
+        "threshold": 0.7,
+        "accuracy_on_confident": 0.4857142857142857,
+        "share_confident": 0.7932011331444759
+      },
+      {
+        "threshold": 0.75,
+        "accuracy_on_confident": 0.48507462686567165,
+        "share_confident": 0.7592067988668555
+      },
+      {
+        "threshold": 0.8,
+        "accuracy_on_confident": 0.4901185770750988,
+        "share_confident": 0.71671388101983
+      },
+      {
+        "threshold": 0.85,
+        "accuracy_on_confident": 0.49333333333333335,
+        "share_confident": 0.6373937677053825
+      },
+      {
+        "threshold": 0.9,
+        "accuracy_on_confident": 0.5102040816326531,
+        "share_confident": 0.5552407932011332
+      },
+      {
+        "threshold": 0.95,
+        "accuracy_on_confident": 0.5793103448275863,
+        "share_confident": 0.41076487252124644
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+Lab test (PlantVillage held-out)
+================================
+
+              precision    recall  f1-score   support
+
+Early Blight      0.959     0.825     0.887       143
+     Healthy      0.928     0.993     0.959       143
+ Late Blight      0.887     0.881     0.884       143
+   Leaf Mold      0.922     0.993     0.956       143
+
+    accuracy                          0.923       572
+   macro avg      0.924     0.923     0.922       572
+weighted avg      0.924     0.923     0.922       572
+
+Screening at threshold 70%:
+{
+  "images": 572,
+  "accuracy_top1": 0.9230769230769231,
+  "flagged_uncertain": 0.08741258741258741,
+  "accuracy_on_confident": 0.9444444444444444,
+  "wrong_but_confident": 29,
+  "wrong_and_flagged": 15
+}

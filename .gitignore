@@ -1,0 +1,18 @@
+# Datasets are downloaded by src/prepare_data.py (too big for git)
+data/
+_to_delete/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Gradio
+.gradio/
+flagged/
+
+# OS
+.DS_Store
+Thumbs.db
