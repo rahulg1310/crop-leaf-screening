@@ -22,6 +22,12 @@ diseased, how confident it is, and which cases to inspect first.
 
 You need **Python 3.10 - 3.13** (python.org, tick "Add Python to PATH").
 
+**Easiest:** double-click **`run_app.bat`**. The first time it creates a `.venv`
+folder and installs the libraries (5-10 minutes); after that it starts in
+seconds and opens the app in your browser.
+
+Or by hand, in Command Prompt:
+
 ```bat
 cd %USERPROFILE%\Documents\crop-leaf-screening
 python -m venv .venv
@@ -70,6 +76,7 @@ python src/predictor.py samples\field_early_blight_1.jpg
 ```
 crop-leaf-screening/
 |-- app.py                 Gradio upload-and-predict interface
+|-- run_app.bat            double-click to set up and start the app (Windows)
 |-- run_all.py             runs the full pipeline
 |-- requirements.txt
 |-- src/

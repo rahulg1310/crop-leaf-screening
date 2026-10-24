@@ -110,4 +110,4 @@ with gr.Blocks(title="Tomato Leaf Screening", **({} if GRADIO_6 else {"css": CSS
                 "leaves. See `results/` and `docs/REPORT.md` for test results and limitations.")
 
 if __name__ == "__main__":
-    demo.launch(**({"css": CSS} if GRADIO_6 else {}))
+    demo.launch(inbrowser=True, **({"css": CSS} if GRADIO_6 else {}))
